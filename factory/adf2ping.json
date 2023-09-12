@@ -1,0 +1,9 @@
+{
+	"name": "adf2ping",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "edcb6374-0c16-49cb-834f-5cc045fe64ef",
+		"tenantId": "f8b36ed7-822d-4365-83e9-a23950c90143"
+	}
+}
